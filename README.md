@@ -14,10 +14,17 @@ CS grad from UMass Boston. Build full-stack apps and cloud infrastructure. AZ-10
 
 ---
 
-**Projects**
+**Main Projects**
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/pnsw123/cs460-assignments">CS 460 — Computer Graphics</a></h3>
+<p>Five progressive WebGL/Three.js assignments: raw GLSL shaders, 3D scene rendering, XR, and Blender-modeled assets.</p>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logoColor=white"/>
+</td>
 <td width="50%" valign="top">
 <h3><a href="https://dhakira.app">Dhakira</a></h3>
 <p>iOS/macOS note-taking app on the App Store. Natural-language date parsing, CloudKit sync, 10 themes, PDF export.</p>
@@ -25,6 +32,8 @@ CS grad from UMass Boston. Build full-stack apps and cloud infrastructure. AZ-10
 <img src="https://img.shields.io/badge/CloudKit-1C9DEA?style=flat-square&logo=icloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=apple&logoColor=white"/>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/pnsw123/Khayal">Khayal</a></h3>
 <p>Cinema platform — 7,400 films, ML recommendations, GIN full-text search, nightly TMDB sync.</p>
@@ -32,8 +41,6 @@ CS grad from UMass Boston. Build full-stack apps and cloud infrastructure. AZ-10
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/pnsw123/fixed-iris-project">Eyedentity</a></h3>
 <p>AI iris-art platform — webcam capture, SAM segmentation, 4× Real-ESRGAN upscaling, HD download.</p>
@@ -41,12 +48,15 @@ CS grad from UMass Boston. Build full-stack apps and cloud infrastructure. AZ-10
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
 <h3><a href="https://github.com/pnsw123/mage-platform">MAGE Platform</a></h3>
 <p>Real-time broadcast rooms with Supabase WebSockets, late-join sync, custom audio engine, WebGL renderer.</p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </td>
 </tr>
 </table>
